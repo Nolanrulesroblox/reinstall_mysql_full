@@ -1,2 +1,4 @@
-# reinstall_mysql_full
+# ** THIS FILE WILL DELETE ANYTHING TO DO WITH MYSQL. **
+
+## reinstall_mysql_full
 A Simple script to Fully remove mysql and Reinstall (helpful when you screw up)
