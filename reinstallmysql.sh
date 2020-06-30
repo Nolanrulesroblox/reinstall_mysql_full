@@ -1,0 +1,1 @@
+sudo rm -r /var/lib/mysql ; sudo rm -r /etc/mysql ; sudo apt-get remove --purge mysql-server mysql-client mysql-common -y; sudo apt-get autoremove ; sudo apt-get autoclean ; sudo apt-get install mysql-server ;
