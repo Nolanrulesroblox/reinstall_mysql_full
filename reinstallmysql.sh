@@ -9,4 +9,6 @@ sudo apt-get remove --purge mysql-server mysql-client mysql-common -y;
   sudo apt-get autoremove ;
  sudo apt-get autoclean ;
 #cleans out junk
-   sudo apt-get install mysql-server ;
+   sudo apt update;
+   sudo apt upgrade -y;
+   sudo apt-get install mysql-server -y;
